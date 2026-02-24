@@ -1,0 +1,37 @@
+body {
+        margin: 0;
+        font-family: Arial, sans-serif;
+        background-colour: #f4f4f4;
+}
+
+nav{
+       background-colour: black;
+       colour: white;
+       padding: 10px;
+       text-align: center;
+} 
+
+h1  {
+       margin-top: 20px;
+       text-align: center;
+}
+
+   .Welcome {
+            text-align:  center;
+            font-size:  18px;
+            colour:  gray;
+} 
+
+h2  {
+        text align: center;
+        margin-top: 30px;
+}
+u1  {
+        Width: 300px;
+        margin-top; 20px auto ;
+        padding: 15px;
+        background-colour: white;
+        list-style-type: none;
+        text-align: center;
+        box-shadow: 0 0 10px gray;
+}
